@@ -10,7 +10,7 @@ A simple movie web app that displays movies and allows users to favorite them. T
 - **State Management**: React Hooks (`useState`, `useEffect`, `useNavigate`)
 - **Routing**: React Router
 - **Data Handling**: Fetch API
-- **Other Tools**: Tailwind CSS (if used), Axios (if used)
+- **Other Tools**: Tailwind CSS 
 
 
 ## 🚀 Features Implemented
